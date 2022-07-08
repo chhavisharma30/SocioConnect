@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1060120872458",
+    "project_id": "socioconnect-cbe9c",
+    "storage_bucket": "socioconnect-cbe9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060120872458:android:8f5d453b4a5c56d6e0c1f3",
+        "android_client_info": {
+          "package_name": "com.example.socioconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060120872458-ekds8p3caau39sgjkaki484d4hlj51s0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs6sRNegnjELwKXhHnkWmUIRaFFvHnFNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060120872458-ekds8p3caau39sgjkaki484d4hlj51s0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
